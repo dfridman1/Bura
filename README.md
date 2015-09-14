@@ -1,6 +1,8 @@
 # Bura (iOS Card Game)
 
 
+iTunes: [link](https://itunes.apple.com/us/app/bura/id952803874?mt=8)
+
 
 Typical game played by Russian inmates and ex-convicts, Bura is popular card game
 played from 2 to 6 people using a deck of 36 cards. Unconventional among point-trick
